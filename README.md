@@ -174,7 +174,7 @@ print('ok')
 This is a small personal project, not a production system or real
 financial-advice tool. Some things worth being honest about:
 
-- **The dataset is small.** 79 examples is enough to bias a small model
+- **The dataset is small.** 89 examples is enough to bias a small model
   toward repeating a fixed set of opinions and facts, but it is not enough
   for the model to robustly generalize to novel phrasings or stocks that
   aren't in the dataset.
